@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Backend Engineer
+- 🔭 I’m currently work as Backend Engineer
 - 🌱 I’m currently learning pattern and performance using python, golang language
 - 👯 I’m looking to collaborate on gobulkinsert repository
 - 💬 Ask me about backend thing
