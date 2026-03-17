@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently work as Backend Engineer
+- 🔭 Backend Engineer
 
